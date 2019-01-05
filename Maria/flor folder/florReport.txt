@@ -1,0 +1,1 @@
+Report created: 	11/11/18	2:37:45 p.m. GMT-5Project name: flor.aepSource files collected to: 	/Volumes/Camilo/flor folderSource files collected: AllCollected comps:  	flor	petalos grandes	petalos pequeños	Number of collected files:  1Size of collected files:  623 KBCollected source files: 	/Users/osx/Downloads/flor.psd	Rendering plug-ins:	Classic 3D	
